@@ -9,7 +9,7 @@
  Acesse a api através de localhost:8080  
  Com isso verá á página incial
 
-#### acesse localhost:8080/produtos   
+#### acesse localhost:8080/produtos 
 #### a aplicação retornará uma lista de produtos vazia []  
 
 # Alguns exemplos de utilização
@@ -32,6 +32,8 @@
  login: admin password: admin    
  No menu lateral clique em search dashboard, já está setado um dashboard chamado JVM (Micrometer)   
  Em qualquer caso pode ser montado o dashboard de sua preferência
- Acesso ao Zipkin em localhost:9411  
+ Acesso ao Zipkin em localhost:9411 
+ 
+ ![Grafana](img/print-dashboard-grafana.png)
  
 
