@@ -1,7 +1,7 @@
 # api-produtos-java-spring
 
 # Testes
- Teste montados sob a ótica do TDD  
+ Testes montados sob a ótica do TDD  
  Execute o arquivo ProductFacadeTest.java  
 
 # Iniciar app
