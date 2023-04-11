@@ -1,6 +1,10 @@
 # api-produtos-java-spring
 
-# Iniciar
+# Testes
+ Teste montados sob a ótica do TDD  
+ Execute o arquivo ProductFacadeTest.java  
+
+# Iniciar app
  Execute o arquivo ApplicationCrudProdutos   
  Execute no terminal o comando docker-compose up  
  Após finalizar este processo a api estará disponível
