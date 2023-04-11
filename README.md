@@ -1,6 +1,7 @@
 # api-produtos-java-spring
 
 # Iniciar
+ Execute o arquivo ApplicationCrudProdutos   
  Execute no terminal o comando docker-compose up  
  Após finalizar este processo a api estará disponível
 
@@ -24,8 +25,13 @@
  Produto será deletado conforme o id inserido   
  
 # Health Check
- localhost:8080/actuator   
- localhost:8080/actuator/prometheus   
+ localhost:9090 para acesso ao prometheus         
  
 # DashBoard em tempo real
+ localhost:3000 para acesso ao grafana   
+ login: admin password: admin    
+ No menu lateral clique em search dashboard, já está setado um dashboard chamado JVM (Micrometer)   
+ Em qualquer caso pode ser montado o dashboard de sua preferência
+ Acesso ao Zipkin em localhost:9411  
+ 
 
