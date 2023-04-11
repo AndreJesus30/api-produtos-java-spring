@@ -9,8 +9,8 @@
  Acesse a api através de localhost:8080  
  Com isso verá á página incial
 
-#### acesse localhost:8080/produtos 
-#### a aplicação retornará uma lista de produtos vazia []  
+#### Acesse localhost:8080/produtos 
+#### A aplicação retornará uma lista de produtos vazia []  
 
 # Alguns exemplos de utilização
 
@@ -34,6 +34,6 @@
  Em qualquer caso pode ser montado o dashboard de sua preferência
  Acesso ao Zipkin em localhost:9411 
  
- ![Grafana](img/print-dashboard-grafana.png)
+ ![Grafana](https://github.com/AndreJesus30/api-produtos-java-spring/blob/main/print-dashboard-grafana.PNG)
  
 
